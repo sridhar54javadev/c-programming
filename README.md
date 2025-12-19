@@ -1,4 +1,5 @@
 # c-programming
-adding two numbers
+adding two numbers,subracting two numbers
+
 
 
